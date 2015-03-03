@@ -7,8 +7,6 @@
 
 By [Author name](author URL goes here).
 
-[![Code Climate](Code Climate Badge IMG URL goes here)](Code Climate URL goes here)
-
 ## Description
 **Application Name Here** description can be listed here.
 
@@ -62,13 +60,6 @@ Screenshots of your application below:
 ![Screenshot 2](http://placekitten.com/400/300)
 
 
-### Known Issues
-
-If you discover any bugs, feel free to create an issue on GitHub fork and
-send us a pull request.
-
-[Issues List](Github Issues List URL goes here).
-
 ## Authors
 
 * Your Name (Your Github URL goes here)
@@ -82,8 +73,3 @@ send us a pull request.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
-
-
-## License
-
-Your Licensing Information goes here. Example: MIT/X11.
